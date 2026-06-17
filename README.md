@@ -77,7 +77,11 @@ ollama pull qwen2.5vl:3b
 
 ```bash
 git clone https://github.com/Maull123es/NIKTO_OCR.git
+```
+```bash
 cd NIKTO_OCR
+```
+```bash
 pip install -r requirements.txt
 ```
 
@@ -144,3 +148,4 @@ Proyek ini didistribusikan di bawah lisensi MIT License. Anda bebas menggunakan,
 
 Catatan Pengembangan: Proyek ini terus dikembangkan. Jika Anda menemukan bug atau memiliki saran fitur, silakan buka Issue di repository GitHub ini.
 
+Made With Love❤️
