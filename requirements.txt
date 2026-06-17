@@ -1,0 +1,9 @@
+Flask
+opencv-python
+numpy
+pillow
+pytesseract
+python-dotenv
+google-genai
+openai
+pyTelegramBotAPI

@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+debug_crop/
+debug_norm_full/
+debug_norm_full.jpg
+kunci_jawaban/*.txt
+hasil_nilai/
+kamus_huruf/
+*.jpg
+*.png
+*.jpeg
