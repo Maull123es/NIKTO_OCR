@@ -1,4 +1,12 @@
 # Nikto_OCR: Intelligent LJK Scanner
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue.svg)
+![Made with](https://img.shields.io/badge/Made%20with-Love-red.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red?logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web-lightgrey?logo=flask&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-LocalAI-black?logo=ollama&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 📝 NIKTO_OCR adalah sistem pemindai Lembar Jawaban Komputer (LJK) berbasis Computer Vision dan Vision Language Models (VLM). Proyek ini menggabungkan kekuatan preprocessing OpenCV untuk deteksi struktur grid dengan kecerdasan AI lokal (Ollama/Qwen2.5-VL) serta fallback cloud (Gemini/OpenAI) untuk akurasi pembacaan tulisan tangan yang tinggi.
 
