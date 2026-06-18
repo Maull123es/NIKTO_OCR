@@ -59,7 +59,7 @@ graph TD
 ├── openai_ocr.py         # Integrasi API OpenAI & Wrapper Class dengan Rate Limiter
 ├── telegram_bot.py       # Interface Bot Telegram dengan pembersihan otomatis
 ├── requirements.txt      # Daftar dependensi modul Python
-├── .env                  # File konfigurasi rahasia (JANGAN DI-COMMIT)
+├── .env                  # File konfigurasi rahasia
 └── kunci_jawaban/        # Direktori penyimpanan kunci jawaban
     └── SMA_10_A.txt      # Contoh format: nomor,jawaban
 ```
